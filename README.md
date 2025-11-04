@@ -1,4 +1,4 @@
-# 🤖 LangGraph Chatbot (with Gemini + Tools + Auto Chat Titles)
+# 🤖 LangGraph Chatbot (with Gemini + Tools)
 
 A fully functional **AI Chatbot** built using **LangGraph**, **Google Gemini (via LangChain)**, and **Streamlit** — featuring:
 - Tool usage (Calculator, Stock Price, Web Search)
